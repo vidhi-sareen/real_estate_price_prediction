@@ -1,4 +1,4 @@
-# real_estate_price_prediction
+# Real_Estate_Price_Prediction
 ✨Using the banglore housing pricing dataset from kaggle.com, we will first create a model using sklearn and linear regression.<br>
 <br>
 ✨The next step is to create a flask server in Python that uses the stored model to serve http requests.<br>
