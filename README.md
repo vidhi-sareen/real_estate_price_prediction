@@ -5,7 +5,8 @@
 <br>
 ✨The third component is a website developed in html, CSS, and javascript that allows users to input information such as square footage, bedrooms, and so on, and then calls a Python Flask server to receive the estimated price.<br>
 <br>
-✨Almost all data science principles will be covered during model creation, including data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tuning, k fold cross validation, and so on. This project covers the following technologies and tools in terms of technology and tools:<br>
+✨Almost all data science principles will be covered during model creation, including data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tuning, k fold cross validation, and so on.<br> 
+This project covers the following technologies and tools in terms of technology and tools:<br>
 <br>
 👉1)Python, for starters.<br>
 👉2) Data cleansing with Numpy and Pandas<br>
