@@ -16,4 +16,4 @@ This project covers the following technologies and tools in terms of technology 
 👉6) For the http server, use Python flask.<br>
 👉7) User interface (HTML/CSS/Javascript)<br>
 
-keep working hard😊😊
+keep working hard!!!
